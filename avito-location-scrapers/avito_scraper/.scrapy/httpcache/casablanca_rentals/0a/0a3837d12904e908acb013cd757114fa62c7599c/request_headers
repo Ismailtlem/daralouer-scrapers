@@ -1,7 +1,0 @@
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
-Accept-Language: fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
-Accept-Encoding: gzip, deflate, br
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
-Cookie: vid=22dbf98d-24ac-426d-8413-66b10be336ec; gb=7ae9a2c1-9b2a-424a-b598-05f7675ef49e
